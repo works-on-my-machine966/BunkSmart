@@ -1,4 +1,4 @@
-# 🎓 BunkSmart Analytics v2.4
+# 🎓 BunkSmart
 
 > **Smart Attendance Shortage Prevention Dashboard**
 
