@@ -29,7 +29,7 @@ BunkSmart Analytics helps college students monitor, simulate, and optimize their
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/works-on-my-machine966/bunksmart-analytics.git](https://github.com/works-on-my-machine966/bunksmart-analytics.git)
+   git clone https://github.com/works-on-my-machine966/bunksmart-analytics.git
    cd bunksmart-analytics
 
 2. **Install dependencies:**
